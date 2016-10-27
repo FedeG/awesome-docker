@@ -2,7 +2,7 @@
 # Fantastico Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/veggiemonk/awesome-docker.svg?branch=master)](https://travis-ci.org/veggiemonk/awesome-docker)
 
 > Una lista cuidada de recursos y proyectos Docker
-Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] and improved by these **[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
+Inspirada por [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] y mejorada por estos **[fantasticos contribuyentes](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
 
 It's now a GitHub project because it's considerably easier for other people to edit, fix and expand on Docker using GitHub. Just click [README.md][editREADME] to submit a [pull request][editREADME].
 If this list is not complete, you can [contribute][editREADME] to make it so.
@@ -15,13 +15,13 @@ The creators and maintainers of this list do not receive and should not receive 
 
 All the links are monitored and tested with [awesome_bot](https://github.com/dkhamsing/awesome_bot) made by  [@dkhamsing](https://github.com/dkhamsing)
 
-# What is Docker ?
+# Que es Docker ?
 
-> Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.
+> Docker es una plataforma abierta para desarrolladores y sysadmins para construir, ship, y ejecutar aplicaciones distribuidas. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.
 
-_Source:_ [What is Docker](https://www.docker.com/what-docker)
+_Fuente:_ [Que es Docker](https://www.docker.com/what-docker)
 
-# Where to start ?
+# Donde empezar ?
 
 * [10-minute Interactive Tutorial](https://docs.docker.com/docker-for-mac/)
 * [Docker Training](http://training.docker.com/)
@@ -43,7 +43,7 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 * [How to Whale](https://howtowhale.com/) Learn Docker in your web browser, no setup or installation required.
 * [Docker for all - Developers, Testers, DevOps, Product Owners + Videos](https://github.com/machzqcq/docker-for-all) Docker Training Videos for all
 
-# Where to start - on Windows ?
+# Donde empezar - en Windows ?
 
 * [Windows Containers Quick Start](https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start) Overview of Windows containers, drilling down to Quick Starts for Windows 10 and Windows Server 2016
 * [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) Walkthrough installing Docker on Windows 10, building a Docker image and running a Windows container
@@ -527,7 +527,7 @@ Securely store your Docker images.
 * [Local Persist](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
 
 
-## Useful Images
+## Imagenes Utiles
 
 * [Official Images from Docker Hub](https://github.com/docker-library/official-images)
 * [Base Image](https://github.com/phusion/baseimage-docker) by [@phusion](https://github.com/phusion/)
@@ -558,14 +558,14 @@ desktop!
 
 * [Docker Compose Example](https://github.com/llitfkitfk/docker-compose-demo) by [@llitfkitfk](https://github.com/llitfkitfk)
 
-## Storing Images and Registries
+## Almacenando Imagenes and Registros
 
 * [Docker Registry v2][distribution] (The Docker toolset to pack, ship, store, and deliver content)
 * [Rescoyl](https://github.com/noteed/rescoyl) (Private Docker registry) by [@noteed][noteed]
 * [Atomic Registry](http://www.projectatomic.io/registry/) Red Hat Atomic Registry is an open source enterprise registry based on the Origin and Cockpit projects, enhancing the Docker registry library.
 * [VMWare Harbor](http://vmware.github.io/harbor/) Project Harbor by VMWare is an enterprise-class registry server that stores and distributes Docker images. Harbor extends the open source Docker Distribution by adding the functionalities usually required by an enterprise, such as security, identity and management.
 
-## Monitoring
+## Monitoreo
 
 * [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) AppDynamics gives enterprises real-time insights into application performance, user performance, and business performance so they can move faster in an increasingly sophisticated, software-driven world.
 * [Axibase Time-Series Database](http://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/) (Long-term retention of container statistics and built-in dashboards for Docker. Collected with native Google cAdvisor storage driver.)
@@ -657,7 +657,7 @@ desktop!
 * [Mantl](https://github.com/ciscocloud/mantl) Mantl is a modern platform for rapidly deploying globally distributed services [@ciscocloud](http://mantl.io)
 * [Portainer](http://portainer.io/) - A lightweight management UI for managing your Docker host or Docker Swarm cluster
 
-## Security
+## Seguridad
 
 * [docker-bench-security](https://github.com/docker/docker-bench-security) script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker][docker]
 * [notary](https://github.com/docker/notary) a server and a client for running and interacting with trusted collections. By [@docker][docker]
@@ -798,7 +798,7 @@ desktop!
 [microbadger]: https://microbadger.com
 [labelschema]: http://label-schema.org
 
-# Communities and Meetups
+# Comunidades y Meetups
 
 * [Docker Community](https://www.docker.com/docker-community)
 * [Docker On Line Meetup](http://www.meetup.com/Docker-Online-Meetup/)
