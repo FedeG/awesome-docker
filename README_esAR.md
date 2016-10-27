@@ -173,14 +173,14 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 * [Swarm v. Fleet v. Kubernetes v. Mesos](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos) Comparing different orchestration tools. (written OCT 2015)
 * [The Shortlist of Docker Hosting](https://blog.codeship.com/the-shortlist-of-docker-hosting) There are so many specialized and optimized Docker hosting services available, it’s high time for a review to see what’s on offer (by Chris Ward).
 
-## Portuguese Articles
+## Artículos en portugues
 
 * [Uma rápida introdução ao Docker e instalação no Ubuntu](https://woliveiras.com.br/posts/uma-rapida-introducao-ao-docker-e-instalacao-no-ubuntu/)
 * [O que é uma imagem e o que é um container Docker?](https://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/)
 * [Criando uma imagem Docker personalizada](https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/)
 * [Comandos mais utilizados no Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
 
-## Deep Dive
+## Inmersión (Deep Dive)
 * [Creating containers - Part 1](http://crosbymichael.com/creating-containers-part-1.html) This is part one of a series of blog posts detailing how docker creates containers. By [@crosbymichael][crosbymichael]
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
 
@@ -193,15 +193,15 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 * [How to use Docker on Full Metal](http://blog.bigstep.com/use-docker-full-metal-cloud/)
 * [CargoOS](https://cargos.io/) A bare essential OS for running the Docker Engine on bare metal or Cloud.
 
-## Multi-Server
+## Multi-Servidor
 * [A Docker based mini-PaaS](http://shortcircuit.net.au/~prologic/blog/article/2015/03/24/a-docker-based-mini-paas/)
 by [@prologic][prologic]
 * [A multi-host scalable web services demo using Docker swarm, Docker compose, NGINX, and Blockbridge](https://www.blockbridge.com/a-scalable-web-services-demo-using-docker-swarm-compose-and-blockbridge/)
 
-## Cloud Infrastructure
+## Infrastructura en la Nube
 * [Cloud Infrastructure Automation for Docker Nodes](https://blog.tutum.co/2015/04/29/cloud-infrastructure-automation-for-docker-nodes/)
 
-## Good Tips
+## Buenos consejos
 * [24 random docker tips](https://csabapalfi.github.io/random-docker-tips/) by [@csabapalfi](https://github.com/csabapalfi)
 * [GUI Apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) by [@fgrehm][fgrehm]
 * [Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/) by [@jwilder][jwilder]
@@ -231,12 +231,12 @@ by [@prologic][prologic]
 * [Shippable](http://blog.shippable.com/)
 * [WebOps weekly](http://webopsweekly.com/)
 
-## Continuous Integration
+## Integración Continua 
 * [Docker and Phoenix: How to Make Your Continuous Integration More Awesome](https://ariya.io/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome)
 * [Jenkins 2.0 - Screencast Series](http://theremotelab.com/blog/jenkins2.0-screencast-series/) by [Virendra Bhalothia](https://twitter.com/bhalothiaa)
 * [Pushing to ECR Using Jenkins Pipeline Plugin](https://blog.mikesir87.io/2016/04/pushing-to-ecr-using-jenkins-pipeline-plugin/) by [@mikesir87](https://github.com/mikesir87)
 
-## Optimizing Images
+## Optimizando Imagenes
 * [Create the smallest possible Docker container](http://blog.xebia.com/create-the-smallest-possible-docker-container/)
 * [Creating a Docker image from your code](https://blog.tutum.co/2014/04/10/creating-a-docker-image-from-your-code/)
 * [Optimizing Docker Images](https://www.ctl.io/developers/blog/post/optimizing-docker-images/)
@@ -254,7 +254,7 @@ by [@prologic][prologic]
  * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
  * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
 
-## Security
+## Seguridad
 * [Docker and SELinux](http://www.projectatomic.io/docs/docker-and-selinux/)
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
 * [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
@@ -272,7 +272,7 @@ by [@prologic][prologic]
 * [Distrubuted JMeter testing using Docker](http://srivaths.blogspot.fr/2014/08/distrubuted-jmeter-testing-using-docker.html?m=1)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 
-## Raspberry Pi & ARM
+## Raspberry Pi y ARM
 * [git push docker containers to linux devices](https://resin.io/) Modern DevOps for IoT, leveraging git and Docker.
 * [Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/) Huge resource on clustering, swarm, docker, pre-installed image for SD card on Raspberry Pi
 * [Docker on Raspberry Pi](http://blog.xebia.com/docker-on-a-raspberry-pi/)
@@ -287,15 +287,15 @@ by [@prologic][prologic]
 * [How to run 2500 webservers on a Raspberry Pi](http://blog.loof.fr/2015/10/how-to-run-2500-webservers-on-raspberry.html)
 
 
-## Other
+## Otros
 * Presentation: Docker and JBoss - the perfect combination
  * [Vidéo](https://www.youtube.com/watch?v=4uQ6gR_xZhE)
  * [Code source](https://github.com/goldmann/goldmann.pl/tree/master/.presentations/2014-vjbug-docker/demos)
  * [JBoss and Docker Presentation](https://goldmann.pl/presentations/2014-vjbug-docker/ )
 
-# Books
+# Libros
 
-## In English
+## en Ingles
 
 * [Docker Book](https://dockerbook.com/) by James Turnbul ([@kartar][kartar])
 * [Docker Cookbook](http://shop.oreilly.com/product/0636920036791.do) by Sébastien Goasguen ([@sebgoa][sebgoa]) (Publisher: O'Reilly)
@@ -317,22 +317,22 @@ by [@prologic][prologic]
 * [Docker High Performance](https://www.packtpub.com/networking-and-servers/docker-high-performance) by Allan Espinosa (Publisher: Packt)
 * [Kubernetes Up and Running: Dive into the Future of Infrastructure](http://shop.oreilly.com/product/0636920043874.do) by Kelsey Hightower ([@kelseyhightower](https://twitter.com/kelseyhightower)) (Publisher: O'Reilly)
 
-## Chinese
+## Chino
 * [The Source Code Analysis of Docker](https://www.amazon.cn/图书/dp/B012ROMRUM) (Chinese) by [Allen Sun](https://github.com/allencloud)
 * [Docker Container and Container Cloud](https://www.amazon.cn/图书/dp/B014ETH1IG) (Chinese) by [Harry Zhang](https://twitter.com/resouer) & Jianbo Sun & Zhejiang University SEL Laboratory
 
-## German
+## Aleman
 
 * [Docker: Container-Infrastruktur für Microservices](http://www.bee42.com/dockerbook/) by Peter Roßbach ([@PRossbach](https://twitter.com/PRossbach))
 
-## Portuguese
+## Portugues
 
 * [Containers com Docker do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker) by Daniel Romero ([@infoslack](https://twitter.com/infoslack))
 * [Aprendendo Docker: Do básico à orquestração de contêineres](http://aprendendodocker.com.br/) by Wellington F. Silva ([@_wsilva](https://twitter.com/_wsilva)) (Publisher: Editora Novatec)
 * [Docker para Desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) by Rafael Gomes ([@gomex](https://twitter.com/gomex)) (Publisher: Leanpub) - 80% finished
 
 
-# Tools
+# Herramientas
 
 * [Docker](https://github.com/docker/docker)
 * [Docker Images](https://hub.docker.com)
@@ -350,7 +350,7 @@ by [@prologic][prologic]
 * [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft by [@docker][docker]
 * [dockersql](https://github.com/crosbymichael/dockersql) - A command line interface to query Docker using SQL by [@crosbymichael][crosbymichael]
 
-## Dev Tools
+## Herramientas para desarrolladores
 
 * [athena](https://github.com/athena-oss/athena) - An automation platform with a plugin architecture that allows you to easily create and share services. Some useful plugins are : [php plugin](https://github.com/athena-oss/plugin-php), [selenium plugin](https://github.com/athena-oss/plugin-selenium) and [proxy plugin](https://github.com/athena-oss/plugin-proxy).
 * [draw-compose](https://github.com/Alexis-benoist/draw-compose) - Utility to draw a schema of a docker compose by [@Alexis-benoist](https://github.com/Alexis-benoist)
@@ -417,7 +417,7 @@ by [@prologic][prologic]
 * [dext-docker-registry-plugin](https://github.com/vutran/dext-docker-registry-plugin) - Search the Docker Registry with the Dext smart launcher.
 * [Docker-sync](http://docker-sync.io/) - Tool from [@EugenMayer](https://github.com/EugenMayer) to improve performance when using Docker on Mac OS X and your volume has several folders and files like gulp projects for instance.
 
-## Continuous Integration / Continuous Delivery
+## Integración Continua / Entrega Continua
 
 * [Awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - Not specific to docker but relevant.
 * [Buddy](https://buddy.works) - The best of Git, build & deployment tools combined into one powerful tool that supercharged our development
@@ -447,7 +447,7 @@ by [@prologic][prologic]
 * [rocker-compose](https://github.com/grammarly/rocker-compose) - Docker composition tool with idempotency features for deploying apps composed of multiple containers.
 * [Zodiac](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications. By [@CenturyLinkLabs][CenturyLinkLabs]
 
-## Hosting for repositories (registries)
+## Hosting para repositorios (registros)
 
 Securely store your Docker images.
 * [Docker Hub](https://hub.docker.com/) (provided by Docker Inc.)
@@ -457,7 +457,7 @@ Securely store your Docker images.
 * [Compose Registry](https://www.composeregistry.com/) - Project from [@francescou]Francesco Uliana that stores docker-compose.yml files with stack examples like LAMP/LEMP stacks, Django stacks, Flask stacks and ELK stacks for instance.
 * [Container Compliance](https://github.com/OpenSCAP/container-compliance) Open Source tool for assesing running containers and cold images for vulnerabilites and audits.
 
-## Hosting for containers
+## Hosting para contenedores
 
 * [Amazon ECS](http://aws.amazon.com/ecs/) - A management service on EC2 that supports Docker containers.
 * [ContainerShip Cloud][containership] - Multi-Cloud Container Hosting Automation Platform.
@@ -470,7 +470,7 @@ Securely store your Docker images.
 * [Triton](https://www.joyent.com/) - Elastic container-native infrastructure by Joyent.
 * [Hyper_](https://hyper.sh/) - Secure container hosting service with "nano-containers" and per-second billing.
 
-## Reverse Proxy
+## Proxy Reverso
 
 * [nginx-proxy][nginxproxy] - Automated nginx proxy for Docker containers using docker-gen by [@jwilder][jwilder]
 * [Let's Encrypt Nginx-proxy Companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By [@JrCs](https://github.com/JrCs)
@@ -516,7 +516,7 @@ Securely store your Docker images.
 * [Azk](http://www.azk.io/) - Orchestrate development enviornments on your local machine by [@azukiapp](https://github.com/azukiapp)
 * [Turbo](https://ramitsurana.github.io/turbo/) - Simple and Powerful utility for docker. By [@ramitsurana][ramitsurana]
 
-## Volume management and plugins
+## Administración de volumenes y plugins
 * [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume) - The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By [@blockbridge][blockbridge]
 * [Convoy](https://github.com/rancher/convoy) - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By [@rancher][rancher]
 * [Azure Files Volume Driver](https://github.com/ahmetalpbalkan/azurefile-dockervolumedriver) - A Docker volume driver that allows you to mount persistent volumes backed by Microsoft Azure File Service. By [@ahmetalpbalkan][ahmetalpbalkan]
@@ -677,7 +677,7 @@ desktop!
 * [label-schema.org][labelschema] - a convention and shared namespace for Docker labels.
 * [MicroBadger][microbadger] - add metadata to Docker images using labels.
 
-# Slides
+# Presentaciones
 
 * [Docker Slideshare Account](http://www.slideshare.net/Docker)
 * [Docker Security](http://www.slideshare.net/jpetazzo) with [@jpetazzo][jpetazzo]
@@ -686,14 +686,14 @@ desktop!
 
 # Videos
 
-## Main Account
+## Cuenta Principal
 
 * [Docker Youtube Account](https://www.youtube.com/user/dockerrun)
 * [CenturyLink Labs Docker Interviews](https://www.youtube.com/playlist?list=PL_q4Fk7SVBCIjyuCBFBItXnzGI3qBa2L1)
 * [Container Camp](https://www.youtube.com/channel/UCvksXSnLqIVM_uFB7xyrsSg/videos) Conference about *containers*!!! [@containercamp](https://twitter.com/containercamp)
 * [Quoi d'neuf Docker](https://www.youtube.com/channel/UCOAhkxpryr_BKybt9wIw-NQ/videos) **FRENCH** chronique vidéo sur Youtube proposant de courtes vidéos (maximum 15 minutes) sur la thématique "Docker et son écosystème" [Site Web](http://www.quoidneufdocker.xyz/)
 
-## Useful videos
+## Videos utiles
 
 * [Ansible and Docker HP](https://www.youtube.com/watch?v=oZ45v8AeE7k) (32:38)
 * [Container Hacks and Fun Images][jessvid] by [@jfrazelle][jfrazelle] @ DockerCon 2015 (**MUST WATCH VIDEO**: 38:50)
@@ -718,7 +718,7 @@ desktop!
 
 * [Katacoda](https://www.katacoda.com/): Learn Docker using Interactive Browser-Based Labs
 
-# Interesting Twitter Accounts
+# Cuentas Interesantes en Twitter
 
 * [Docker](https://twitter.com/docker)
 * [CenturyLink Labs](https://twitter.com/CenturyLinkLabs)
@@ -731,7 +731,7 @@ desktop!
 * [Docker News](https://twitter.com/dockernews)
 * [Docker Captains Twitter List](https://twitter.com/EltonStoneman/lists/docker-captains)
 
-## People
+## Personas
 
 * [Solomon Hykes](https://twitter.com/solomonstre) Founder of Docker
 * [Gabriel Monroy](https://twitter.com/gabrtv) Creator of Deis
